@@ -6,7 +6,7 @@
     <aura:attribute name="einsteinFile" type="Boolean" /> This Playground is an example showcase for how to use the Einstein Platform Services. It is provided as an <a href="https://github.com/muenzpraeger/salesforce-einstein-platform-apex/blob/master/LICENSE.md"
         target="_blank">open-source
     project AS IS</a>. Use it at your own fun and risk.
-
+<!--
     <lightning:accordion activeSectionName="Setup">
         <lightning:accordionSection name="Setup" label="Setup information">
             <aura:if isTrue="{!v.setupComplete}">
@@ -53,6 +53,6 @@
         <lightning:accordionSection name="Contribution" label="Contribution">You have ideas how to extend the Playground or the Apex wrappers? Great! Please read the <a href="https://github.com/muenzpraeger/salesforce-einstein-platform-apex/blob/master/CONTRIBUTION.md"
                 target="_blank">contribution guidelines</a>.</lightning:accordionSection>
     </lightning:accordion>
-
+-->
 
 </aura:component>
